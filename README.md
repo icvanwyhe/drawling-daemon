@@ -92,3 +92,5 @@ SSH into the control node and follow the steps below:
 
 
 ****
+
+In addition to the ELK stack deployment files, this repository contains some shell scripts of varying degrees of usefulness created for my bootcamp. 
