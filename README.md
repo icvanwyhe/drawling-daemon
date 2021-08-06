@@ -3,7 +3,7 @@
 
 The files in this repository were used to configure the network depicted below.
 
-! Diagrams/RedTeam_Network_Map.png
+[RedTeam_Network_Map](drawling-daemon/Diagrams/RedTeam_Network_Map.png)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to  recreate the entire deployment pictured above. Alternatively, different playbook files may be used to install only certain pieces of it, such as Filebeat. The necessary playbooks are install-elk-playbook.yml, filebeat-playbook.yml, metricbeat-playbook.yml, and install-dvwa-playbook.yml.
 
@@ -64,7 +64,7 @@ The install-elk playbook implements the following tasks:
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-! Ansible/docker-ps-output.png
+![Docker-ps-output](drawling-daemon/Ansible/docker-ps-output.png)
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
